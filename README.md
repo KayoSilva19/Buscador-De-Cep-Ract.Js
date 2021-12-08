@@ -8,7 +8,7 @@
 <p>PROJETO EM REACT.JS | JAVASCRIPT</p>
 <hr>
 </br>
-    <p aling="center"> 🗺️ Busca Cep é um projeto que foi realizado seguindo aulas do <a href="https://www.youtube.com/watch?v=oy4cbqE1_qc&ab_channel=Sujeitoprogramador"> Sujeito Programador </a>, Simplesmente o nome já diz tudo, Ele Busca Seu Cep! </p>
+    <p aling="center"> 🗺️ Busca Cep é um projeto que foi realizado seguindo aulas do <a href="https://www.youtube.com/watch?v=oy4cbqE1_qc&ab_channel=Sujeitoprogramador"> Sujeito Programador, </a> Simplesmente o nome já diz tudo, Ele Busca Seu Cep! </p>
 </br>
        
 <img align="center" alt="IMAGEMPROJETO" 
