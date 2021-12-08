@@ -12,7 +12,7 @@
 </br>
        
 <img align="center" alt="IMAGEMPROJETO" 
-        src="./src/images/ImagemDoProjeto.png" height="500px">
+        src="./src/images/ImagemDoProjeto.png" height="250px">
     
 </br>
 
